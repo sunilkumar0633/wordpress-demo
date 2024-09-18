@@ -7,4 +7,3 @@
 
     - name: Run the Docker container
       shell: docker-compose  -f /root/ansible/docker-compose.yml up -d
-      
